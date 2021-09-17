@@ -1,0 +1,6 @@
+﻿  Drilling calculations.cpp
+C:\Users\Devansh-PC\Desktop\1\projects\drilling calculations\Drilling calculations\Drilling calculations\Drilling calculations.cpp(38,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Devansh-PC\Desktop\1\projects\drilling calculations\Drilling calculations\Drilling calculations\Drilling calculations.cpp(40,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Devansh-PC\Desktop\1\projects\drilling calculations\Drilling calculations\Drilling calculations\Drilling calculations.cpp(55,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Devansh-PC\Desktop\1\projects\drilling calculations\Drilling calculations\Drilling calculations\Drilling calculations.cpp(58,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Drilling calculations.vcxproj -> C:\Users\Devansh-PC\Desktop\1\projects\drilling calculations\Drilling calculations\Debug\Drilling calculations.exe
